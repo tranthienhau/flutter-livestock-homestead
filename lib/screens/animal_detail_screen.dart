@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:intl/intl.dart';
+import '../models/species.dart';
 import '../providers/animals_repo.dart';
 
 class AnimalDetailScreen extends ConsumerWidget {
