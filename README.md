@@ -4,6 +4,16 @@ Flutter POC for a multi-species homestead management platform targeting backyard
 farmers. Single codebase covering iPhone + iPad + Android. Offline-first storage
 with cross-device sync, RevenueCat subscriptions, push notifications.
 
+## Demo
+
+Real captures from the running app on the iOS Simulator (not mockups). See [FLOW.md](FLOW.md) for how they are generated.
+
+| Home (multi-species) | Finance dashboard | Savings goal | Animal detail |
+| --- | --- | --- | --- |
+| ![Home](screenshots/01-home.png) | ![Finance](screenshots/02-finance.png) | ![Savings](screenshots/03-savings.png) | ![Animal detail](screenshots/04-animal-detail.png) |
+
+![Demo](screenshots/demo.gif)
+
 ## Stack
 
 - Flutter + Dart (single codebase)
